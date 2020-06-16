@@ -1,4 +1,4 @@
-# 2020-06-16 SWC git workshop for UD
+# 2020/06/16 SWC git workshop for UD
 
 ## Local
 
