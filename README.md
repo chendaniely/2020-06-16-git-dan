@@ -19,3 +19,4 @@
 
 - `git remote add <name> <url>`: gives the remote URL a short NAME
 - `git push <where> <what>`: e.g., `git push origin master` takes the master branch on your local computer and pushes it to the origin location (e.g., github)
+- `git pull <where> <what>`: e.g., `git pull origin master` takes the remote master branch, and brings it to our local master branch
