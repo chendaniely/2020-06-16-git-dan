@@ -27,3 +27,10 @@
 
 - You can have multiple people (yourself included) work on the same file and at the same place
 - Git will either automatically resolve the differences or show you a conflict.
+
+- You won't know there will be a conflict, until you run `git pull` when the remote and your local computer is out of sync
+    - It will either auto merge the changes
+    - Or show you which files have a conflict.
+        - You open the file and manually look for the `>>>`, `===`, and `<<<` and fix the file until you are satisfied.
+        - You can then `git add` and `git commit` your changes and re `git push`
+
