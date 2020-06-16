@@ -1,0 +1,6 @@
+*.csv
+.DS_Store
+*~
+passwords.txt
+*.pdf
+
